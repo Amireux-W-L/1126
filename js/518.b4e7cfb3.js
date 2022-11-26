@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_router_demo"]=self["webpackChunkvue_router_demo"]||[]).push([[518],{1518:function(u,e,r){r.r(e),r.d(e,{default:function(){return c}});var t=function(){var u=this,e=u._self._c;return e("div",[e("p",[u._v("页面未找到 404")]),e("router-link",{attrs:{to:"/"}},[u._v("首页")])],1)},n=[],l={},o=l,s=r(1001),_=(0,s.Z)(o,t,n,!1,null,null,null),c=_.exports}}]);
+//# sourceMappingURL=518.b4e7cfb3.js.map

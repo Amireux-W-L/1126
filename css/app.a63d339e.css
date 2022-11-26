@@ -1,0 +1,1 @@
+.move-enter{transform:translateX(100%);opacity:0}.move-leave-to{transform:translateX(-100%);opacity:0}.move-enter-active,.move-leave-active{transition:all .5s linear}*{margin:0;padding:0;box-sizing:border-box}.login{width:400px;display:flex;flex-direction:column;align-items:center;margin:0 auto}
